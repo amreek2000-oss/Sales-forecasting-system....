@@ -4,10 +4,10 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-F7931E.svg)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Library-Pandas-150458.svg)](https://pandas.pydata.org/)
-[![Status](https://img.shields.io/badge/Cognivence-Level%202%20Completed-success.svg)](#)
+[![Status](https://img.shields.io/badge/Cognevance-Level%202%20Completed-success.svg)](#)
 
 > **Level 2 - Intermediate Internship Project**  
-> **Submitted to:** Cognivence  
+> **Submitted to:** Cognevance  
 > **Domain:** Data Analytics & Machine Learning  
 > **Author:** Amreek  
 
@@ -21,7 +21,7 @@ This system processes transactional records, handles dataset preprocessing, gene
 
 ---
 
-## 🎯 Cognivence Project Requirements Coverage
+## 🎯 Cognevance Project Requirements Coverage
 
 * **Task 1 & 2**: Data Collection & Preprocessing (Handling datetime variables, missing values, and discount calculations).
 * **Task 3**: Monthly and Yearly Sales Trend Analysis.
