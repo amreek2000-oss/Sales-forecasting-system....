@@ -32,6 +32,11 @@ This system processes transactional records, handles dataset preprocessing, gene
 
 ---
 
+
+https://github.com/user-attachments/assets/8bf7f023-1787-4d71-bc9b-00796582f660
+
+
+
 ## 📂 Repository File Structure
 
 ```text
